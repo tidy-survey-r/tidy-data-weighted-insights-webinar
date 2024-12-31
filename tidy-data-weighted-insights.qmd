@@ -1,0 +1,18 @@
+---
+title: "Tidy Data, Weighted Insights"
+subtitle: "Analyzing Complex Survey Data in R"
+format: revealjs
+---
+
+
+# Book overview
+
+# Analysis framework
+
+# Code examples
+
+# The End
+
+## Resources
+
+## Q & A
