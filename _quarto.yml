@@ -1,0 +1,7 @@
+project:
+  title: "tidy-data-weighted-insights-webinar"
+
+editor: source
+
+execute:
+  echo: true
