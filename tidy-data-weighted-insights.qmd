@@ -4,10 +4,24 @@ subtitle: "Analyzing Complex Survey Data in R"
 format: revealjs
 ---
 
-
 # Book overview
 
 # Analysis framework
+
+## Loading packages
+
+```{r}
+#| label: load-pack
+
+# install.packages(c("srvyr", "gtsummary"))
+# pak::pak("tidy-survey-r/srvyrexploR)
+library(srvyr)
+library(gtsummary)
+library(srvyrexploR)
+
+summary(recs_2020)
+```
+
 
 # Code examples
 

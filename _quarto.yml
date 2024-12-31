@@ -4,4 +4,4 @@ project:
 editor: source
 
 execute:
-  freeze: auto
+  echo: true
