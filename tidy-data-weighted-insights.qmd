@@ -6,7 +6,19 @@ format: revealjs
 
 # Book overview
 
+## Motivation (and history)
+
+## What's in the book
+
+## Comparison with SAS/SUDAAN
+
 # Analysis framework
+
+## Steps for analysis
+
+## Comparison with dplyr
+
+# Code examples
 
 ## Loading packages
 
@@ -22,8 +34,13 @@ library(srvyrexploR)
 summary(recs_2020)
 ```
 
+## Create design object
 
-# Code examples
+## Calculating means
+
+## T-tests
+
+## Tables
 
 # The End
 
